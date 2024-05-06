@@ -23,3 +23,5 @@ Está foi o desafio proposto, tendo a imagem para criar a página no relatório
 
 
 * Dentro da pasta relatorio está o arquivo deste desafio!
+* A Base de Dados foi fornecida pela Microsoft!
+* link: https://download.microsoft.com/download/9/6/D/96DDC2FF-2568-491D-AAFA-AFDD6F763AE3/Retail%20Analysis%20Sample%20PBIX.pbix
